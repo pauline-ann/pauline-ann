@@ -1,16 +1,33 @@
-## Hi there 👋
+<p align="center" style="margin: 0; padding: 0;">
+ <img src="https://i.pinimg.com/736x/62/76/d4/6276d4cb017330fa09694faf1e64ba24.jpg" alt="Soft vibes" width="40%" style="display: inline-block; margin: 0; padding: 0;"/>
+  <img src="https://media1.tenor.com/m/BnIPE5qUprgAAAAd/luna-sailor-moon.gif" alt="Luna gif" width="58%" style="display: inline-block; margin: 0; padding: 0;"/>
+</p>
 
-<!--
-**pauline-ann/pauline-ann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there! I'm Pauline~ 
 
-Here are some ideas to get you started:
+I’m a full stack software engineer based in LA. I love transforming ideas into intuitive, polished experiences. I’m all about writing thoughtful code, going on playful side quests, and building things that feel *good* to use. Whether I’m crafting internal tools or building creative apps, I bring care and attention to detail to every project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lately, I've been prototyping tools that blend storytelling and engineering - most recently a tarot card journal - and continuing to sharpen my problem-solving skills through system design and coding challenges.
+
+In past projects, I've:
+
+- Developed responsive, component-based UIs with `React`, `TypeScript`, and `Tailwind`
+
+- Built full stack features and REST APIs using `Node.js`, `Express`, and `MongoDB`
+
+- Translated `Figma` designs into polished, accessible interfaces
+
+- Created internal tools and dashboards with third-party integrations (`Stripe`, `Meta`, `GCP`, etc.)
+
+- Maintained code quality and dev experience using `Cypress`, `Jest`, `Storybook`, and `Swagger`
+
+Some of my favorite tools include `React`, `Node.js`, `JavaScript`, `TypeScript`, `MongoDB`, `Tailwind`, `Vite`, `Next.js`, `Cypress`, `Jest`, `Storybook`, `Postman`, and `Git` (of course!).
+
+Check out my [portfolio](https://www.paulineann.me/) or my [LinkedIn](https://www.linkedin.com/in/pauline-ann) if you're curious to learn more.
+
+Thanks for stopping by! ✨
+
+---
+
+> *"I never stopped dawdling like an eight-year-old on a spring morning on his way to school. Anything can make me stop and look and wonder, and sometimes learn."*  
+> — Dr. Hoenikker, *Cat’s Cradle* by Kurt Vonnegut
