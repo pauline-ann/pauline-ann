@@ -9,6 +9,8 @@ I’m a full stack software engineer based in LA. I love transforming ideas into
 
 Lately, I've been prototyping tools that blend storytelling and engineering - most recently a tarot card journal - and continuing to sharpen my problem-solving skills through system design and coding challenges.
 
+Some of my favorite tools include `React`, `Node.js`, `JavaScript`, `TypeScript`, `MongoDB`, `Tailwind`, `Vite`, `Next.js`, `Cypress`, `Jest`, `Storybook`, `Postman`, and `Git` (of course!).
+
 In past projects, I've:
 
 - Developed responsive, component-based UIs with `React`, `TypeScript`, and `Tailwind`
@@ -20,8 +22,6 @@ In past projects, I've:
 - Created internal tools and dashboards with third-party integrations (`Stripe`, `Meta`, `GCP`, etc.)
 
 - Maintained code quality and dev experience using `Cypress`, `Jest`, `Storybook`, and `Swagger`
-
-Some of my favorite tools include `React`, `Node.js`, `JavaScript`, `TypeScript`, `MongoDB`, `Tailwind`, `Vite`, `Next.js`, `Cypress`, `Jest`, `Storybook`, `Postman`, and `Git` (of course!).
 
 Check out my [portfolio](https://www.paulineann.me/) or my [LinkedIn](https://www.linkedin.com/in/pauline-ann) if you're curious to learn more.
 
