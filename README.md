@@ -30,4 +30,4 @@ Check out my [portfolio](https://www.paulineann.me/) or my [LinkedIn](https://ww
 Thanks for stopping by! ✨
 
 > *"I never stopped dawdling like an eight-year-old on a spring morning on his way to school. Anything can make me stop and look and wonder, and sometimes learn."*  
-> — Dr. Hoenikker, *Cat’s Cradle* by Kurt Vonnegut
+> — *Cat’s Cradle* by Kurt Vonnegut
