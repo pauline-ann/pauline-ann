@@ -7,7 +7,7 @@
 
 I’m a full stack software engineer based in LA. I love transforming ideas into intuitive, polished experiences. I’m all about writing thoughtful code, going on playful side quests, and building things that feel *good* to use. Whether I’m crafting internal tools or building creative apps, I bring care and attention to detail to every project.
 
-Lately, I've been prototyping tools that blend storytelling and engineering - most recently a tarot card journal - and continuing to sharpen my problem-solving skills through system design and coding challenges.
+Lately, I've been prototyping tools that blend utility and engineering with a touch of whismy - most recently a tarot card journal - and continuing to sharpen my problem-solving skills through system design and coding challenges.
 
 Some of my favorite tools include `React`, `Node.js`, `JavaScript`, `TypeScript`, `MongoDB`, `Tailwind`, `Vite`, `Next.js`, `Cypress`, `Jest`, `Storybook`, `Postman`, and `Git` (of course!).
 
